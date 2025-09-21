@@ -1,6 +1,6 @@
 {
-  "portfolio": {"total":0,"real":0,"invested":0,"free":0},
-  "timestamp": "2025-09-21T13:40:49.891Z",
+  "portfolio": {"total":2007.81,"real":2007.81,"invested":0,"free":2007.81},
+  "timestamp": "2025-09-21T14:11:49.811Z",
   "symbols": {
     "CARBONEMISSIONS": {
     "instrument": "CARBONEMISSIONS",
