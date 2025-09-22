@@ -1,7 +1,7 @@
 {
 "portfolio": {
     "total": 1952.56,
-    "real": 1906.42,
+    "real": 1906.74,
     "invested": 1699.92,
     "free": 252.63999999999987
   },
@@ -14,6 +14,6 @@
 {"id":3327090338,"symbol":"NATGAS","side":1,"entry":3.189,"sl":3.12,"tp":3.348,"lev":10,"cap_usd":200,"sl_buffer_usd":0,"unreal_pnl_usd":-43.9,"liq_limit_usd":10,"liq_cushion_pct":-1,"last_mark":3.119,"last_mark_ms":1758570920720},
 {"id":3327120171,"symbol":"NATGAS","side":1,"entry":3.196,"sl":3.12,"tp":3.356,"lev":10,"cap_usd":200,"sl_buffer_usd":0,"unreal_pnl_usd":-48.19,"liq_limit_usd":10,"liq_cushion_pct":-1,"last_mark":3.119,"last_mark_ms":1758570920720},
 {"id":3327340456,"symbol":"NSDQ100","side":1,"entry":24583.35,"sl":24300,"tp":25500,"lev":10,"cap_usd":200,"sl_buffer_usd":0,"unreal_pnl_usd":14.66,"liq_limit_usd":10,"liq_cushion_pct":1,"last_mark":24763.49,"last_mark_ms":1758567635595},
-{"id":3327789866,"symbol":"OIL","side":1,"entry":62,"sl":60.9,"tp":66.9,"lev":10,"cap_usd":199.97,"sl_buffer_usd":0,"unreal_pnl_usd":8.39,"liq_limit_usd":10,"liq_cushion_pct":1,"last_mark":62.26,"last_mark_ms":1758564046715}
+{"id":3327789866,"symbol":"OIL","side":1,"entry":62,"sl":60.9,"tp":66.9,"lev":10,"cap_usd":199.97,"sl_buffer_usd":0,"unreal_pnl_usd":8.71,"liq_limit_usd":10,"liq_cushion_pct":1,"last_mark":62.27,"last_mark_ms":1758571522700}
 ]
 }
