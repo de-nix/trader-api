@@ -1,19 +1,19 @@
 {
 "portfolio": {
     "total": 1952.56,
-    "real": 1998.29,
+    "real": 1914.03,
     "invested": 1699.92,
     "free": 252.63999999999987
   },
 "trades": [
-{"id":3326235648,"symbol":"NSDQ100","side":1,"entry":24435.74,"sl":24380,"tp":25657.53,"lev":10,"cap_usd":199.99,"sl_buffer_usd":0,"unreal_pnl_usd":20.21,"liq_limit_usd":10,"liq_cushion_pct":1,"last_mark":24682.67,"last_mark_ms":1758553247809},
-{"id":3326811939,"symbol":"NATGAS","side":1,"entry":3.21,"sl":3.12,"tp":3.371,"lev":10,"cap_usd":199.99,"sl_buffer_usd":0,"unreal_pnl_usd":-21.81,"liq_limit_usd":10,"liq_cushion_pct":-1,"last_mark":3.175,"last_mark_ms":1758553250071},
-{"id":3326860497,"symbol":"NSDQ100","side":1,"entry":24512.85,"sl":24380,"tp":25738.49,"lev":10,"cap_usd":199.99,"sl_buffer_usd":0,"unreal_pnl_usd":13.85,"liq_limit_usd":10,"liq_cushion_pct":1,"last_mark":24682.67,"last_mark_ms":1758553247809},
-{"id":3326860701,"symbol":"NATGAS","side":1,"entry":3.187,"sl":3.12,"tp":3.346,"lev":10,"cap_usd":149.99,"sl_buffer_usd":0,"unreal_pnl_usd":-5.65,"liq_limit_usd":7.5,"liq_cushion_pct":0.247,"last_mark":3.175,"last_mark_ms":1758553250071},
-{"id":3326860598,"symbol":"SILVER","side":1,"entry":42.2,"sl":43.29,"tp":44.31,"lev":10,"cap_usd":149.99,"sl_buffer_usd":0,"unreal_pnl_usd":52.96,"liq_limit_usd":7.5,"liq_cushion_pct":1,"last_mark":43.69,"last_mark_ms":1758553255620},
-{"id":3327090338,"symbol":"NATGAS","side":1,"entry":3.189,"sl":3.12,"tp":3.348,"lev":10,"cap_usd":200,"sl_buffer_usd":0,"unreal_pnl_usd":-8.78,"liq_limit_usd":10,"liq_cushion_pct":0.122,"last_mark":3.175,"last_mark_ms":1758553250071},
-{"id":3327120171,"symbol":"NATGAS","side":1,"entry":3.196,"sl":3.12,"tp":3.356,"lev":10,"cap_usd":200,"sl_buffer_usd":0,"unreal_pnl_usd":-13.14,"liq_limit_usd":10,"liq_cushion_pct":-0.3141,"last_mark":3.175,"last_mark_ms":1758553250071},
-{"id":3327340456,"symbol":"NSDQ100","side":1,"entry":24583.35,"sl":24300,"tp":25500,"lev":10,"cap_usd":200,"sl_buffer_usd":0,"unreal_pnl_usd":8.08,"liq_limit_usd":10,"liq_cushion_pct":1,"last_mark":24682.67,"last_mark_ms":1758553247809},
-{"id":3327789866,"symbol":"OIL","side":1,"entry":62,"sl":60.9,"tp":66.9,"lev":10,"cap_usd":199.97,"sl_buffer_usd":0,"unreal_pnl_usd":0,"liq_limit_usd":0,"liq_cushion_pct":1}
+{"id":3326235648,"symbol":"NSDQ100","side":1,"entry":24435.74,"sl":24380,"tp":25657.53,"lev":10,"cap_usd":199.99,"sl_buffer_usd":0,"unreal_pnl_usd":18.82,"liq_limit_usd":10,"liq_cushion_pct":1,"last_mark":24665.7,"last_mark_ms":1758556837041},
+{"id":3326811939,"symbol":"NATGAS","side":1,"entry":3.21,"sl":3.12,"tp":3.371,"lev":10,"cap_usd":199.99,"sl_buffer_usd":0,"unreal_pnl_usd":-45.48,"liq_limit_usd":10,"liq_cushion_pct":-1,"last_mark":3.137,"last_mark_ms":1758556839361},
+{"id":3326860497,"symbol":"NSDQ100","side":1,"entry":24512.85,"sl":24380,"tp":25738.49,"lev":10,"cap_usd":199.99,"sl_buffer_usd":0,"unreal_pnl_usd":12.47,"liq_limit_usd":10,"liq_cushion_pct":1,"last_mark":24665.7,"last_mark_ms":1758556837041},
+{"id":3326860701,"symbol":"NATGAS","side":1,"entry":3.187,"sl":3.12,"tp":3.346,"lev":10,"cap_usd":149.99,"sl_buffer_usd":0,"unreal_pnl_usd":-23.53,"liq_limit_usd":7.5,"liq_cushion_pct":-1,"last_mark":3.137,"last_mark_ms":1758556839361},
+{"id":3326860598,"symbol":"SILVER","side":1,"entry":42.2,"sl":43.29,"tp":44.31,"lev":10,"cap_usd":149.99,"sl_buffer_usd":0,"unreal_pnl_usd":56.87,"liq_limit_usd":7.5,"liq_cushion_pct":1,"last_mark":43.8,"last_mark_ms":1758556847286},
+{"id":3327090338,"symbol":"NATGAS","side":1,"entry":3.189,"sl":3.12,"tp":3.348,"lev":10,"cap_usd":200,"sl_buffer_usd":0,"unreal_pnl_usd":-32.61,"liq_limit_usd":10,"liq_cushion_pct":-1,"last_mark":3.137,"last_mark_ms":1758556839361},
+{"id":3327120171,"symbol":"NATGAS","side":1,"entry":3.196,"sl":3.12,"tp":3.356,"lev":10,"cap_usd":200,"sl_buffer_usd":0,"unreal_pnl_usd":-36.92,"liq_limit_usd":10,"liq_cushion_pct":-1,"last_mark":3.137,"last_mark_ms":1758556839361},
+{"id":3327340456,"symbol":"NSDQ100","side":1,"entry":24583.35,"sl":24300,"tp":25500,"lev":10,"cap_usd":200,"sl_buffer_usd":0,"unreal_pnl_usd":6.7,"liq_limit_usd":10,"liq_cushion_pct":1,"last_mark":24665.7,"last_mark_ms":1758556837041},
+{"id":3327789866,"symbol":"OIL","side":1,"entry":62,"sl":60.9,"tp":66.9,"lev":10,"cap_usd":199.97,"sl_buffer_usd":0,"unreal_pnl_usd":5.16,"liq_limit_usd":10,"liq_cushion_pct":1,"last_mark":62.16,"last_mark_ms":1758556844568}
 ]
 }
