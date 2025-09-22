@@ -1,20 +1,20 @@
 {
 "portfolio": {
     "total": 2007.81,
-    "real": 2040.61,
+    "real": 2011.89,
     "invested": 1865.24,
     "free": 142.56999999999994
   },
 "trades": [
-{"id":3326235639,"symbol":"CARBONEMISSIONS","side":1,"entry":77.7,"sl":73.82,"tp":81.59,"lev":10,"cap_usd":199.99,"sl_buffer_usd":0,"unreal_pnl_usd":-38.35,"liq_limit_usd":10,"liq_cushion_pct":-1,"last_mark":76.21,"last_mark_ms":1758535222165},
-{"id":3326235648,"symbol":"NSDQ100","side":1,"entry":24435.74,"sl":24380,"tp":25657.53,"lev":10,"cap_usd":199.99,"sl_buffer_usd":0,"unreal_pnl_usd":10,"liq_limit_usd":10,"liq_cushion_pct":1,"last_mark":24557.96,"last_mark_ms":1758536871036},
-{"id":3326811939,"symbol":"NATGAS","side":1,"entry":3.21,"sl":3.12,"tp":3.371,"lev":10,"cap_usd":199.99,"sl_buffer_usd":0,"unreal_pnl_usd":-3.12,"liq_limit_usd":10,"liq_cushion_pct":0.6885,"last_mark":3.205,"last_mark_ms":1758535225824},
-{"id":3326860497,"symbol":"NSDQ100","side":1,"entry":24512.85,"sl":24380,"tp":25738.49,"lev":10,"cap_usd":199.99,"sl_buffer_usd":0,"unreal_pnl_usd":3.68,"liq_limit_usd":10,"liq_cushion_pct":1,"last_mark":24557.96,"last_mark_ms":1758536871036},
-{"id":3326860701,"symbol":"NATGAS","side":1,"entry":3.187,"sl":3.12,"tp":3.346,"lev":10,"cap_usd":149.99,"sl_buffer_usd":0,"unreal_pnl_usd":8.47,"liq_limit_usd":7.5,"liq_cushion_pct":1,"last_mark":3.205,"last_mark_ms":1758535225824},
-{"id":3326860598,"symbol":"SILVER","side":1,"entry":42.2,"sl":43,"tp":44.31,"lev":10,"cap_usd":149.99,"sl_buffer_usd":0,"unreal_pnl_usd":51.89,"liq_limit_usd":7.5,"liq_cushion_pct":1,"last_mark":43.66,"last_mark_ms":1758535229986},
-{"id":3327090338,"symbol":"NATGAS","side":1,"entry":3.189,"sl":3.12,"tp":3.348,"lev":10,"cap_usd":200,"sl_buffer_usd":0,"unreal_pnl_usd":10.03,"liq_limit_usd":10,"liq_cushion_pct":1,"last_mark":3.205,"last_mark_ms":1758535225824},
-{"id":3327120171,"symbol":"NATGAS","side":1,"entry":3.196,"sl":3.12,"tp":3.356,"lev":10,"cap_usd":200,"sl_buffer_usd":0,"unreal_pnl_usd":5.63,"liq_limit_usd":10,"liq_cushion_pct":1,"last_mark":3.205,"last_mark_ms":1758535225824},
-{"id":3327340456,"symbol":"NSDQ100","side":1,"entry":24583.35,"sl":24300,"tp":25500,"lev":10,"cap_usd":200,"sl_buffer_usd":0,"unreal_pnl_usd":-2.07,"liq_limit_usd":10,"liq_cushion_pct":0.7934,"last_mark":24557.96,"last_mark_ms":1758536871036},
-{"id":3327340471,"symbol":"OIL","side":1,"entry":62.79,"sl":59.01,"tp":68.99,"lev":10,"cap_usd":150,"sl_buffer_usd":15.3,"unreal_pnl_usd":-13.38,"liq_limit_usd":22.8,"liq_cushion_pct":0.4132,"last_mark":62.23,"last_mark_ms":1758535228697}
+{"id":3326235639,"symbol":"CARBONEMISSIONS","side":1,"entry":77.7,"sl":73.82,"tp":81.59,"lev":10,"cap_usd":199.99,"sl_buffer_usd":0,"unreal_pnl_usd":-33.72,"liq_limit_usd":10,"liq_cushion_pct":-1,"last_mark":76.39,"last_mark_ms":1758537833063},
+{"id":3326235648,"symbol":"NSDQ100","side":1,"entry":24435.74,"sl":24380,"tp":25657.53,"lev":10,"cap_usd":199.99,"sl_buffer_usd":0,"unreal_pnl_usd":8.56,"liq_limit_usd":10,"liq_cushion_pct":1,"last_mark":24540.36,"last_mark_ms":1758537833934},
+{"id":3326811939,"symbol":"NATGAS","side":1,"entry":3.21,"sl":3.12,"tp":3.371,"lev":10,"cap_usd":199.99,"sl_buffer_usd":0,"unreal_pnl_usd":-9.97,"liq_limit_usd":10,"liq_cushion_pct":0.0032,"last_mark":3.194,"last_mark_ms":1758537834741},
+{"id":3326860497,"symbol":"NSDQ100","side":1,"entry":24512.85,"sl":24380,"tp":25738.49,"lev":10,"cap_usd":199.99,"sl_buffer_usd":0,"unreal_pnl_usd":2.24,"liq_limit_usd":10,"liq_cushion_pct":1,"last_mark":24540.36,"last_mark_ms":1758537833934},
+{"id":3326860701,"symbol":"NATGAS","side":1,"entry":3.187,"sl":3.12,"tp":3.346,"lev":10,"cap_usd":149.99,"sl_buffer_usd":0,"unreal_pnl_usd":3.29,"liq_limit_usd":7.5,"liq_cushion_pct":1,"last_mark":3.194,"last_mark_ms":1758537834741},
+{"id":3326860598,"symbol":"SILVER","side":1,"entry":42.2,"sl":43,"tp":44.31,"lev":10,"cap_usd":149.99,"sl_buffer_usd":0,"unreal_pnl_usd":53.67,"liq_limit_usd":7.5,"liq_cushion_pct":1,"last_mark":43.71,"last_mark_ms":1758537836803},
+{"id":3327090338,"symbol":"NATGAS","side":1,"entry":3.189,"sl":3.12,"tp":3.348,"lev":10,"cap_usd":200,"sl_buffer_usd":0,"unreal_pnl_usd":3.14,"liq_limit_usd":10,"liq_cushion_pct":1,"last_mark":3.194,"last_mark_ms":1758537834741},
+{"id":3327120171,"symbol":"NATGAS","side":1,"entry":3.196,"sl":3.12,"tp":3.356,"lev":10,"cap_usd":200,"sl_buffer_usd":0,"unreal_pnl_usd":-1.25,"liq_limit_usd":10,"liq_cushion_pct":0.8748,"last_mark":3.194,"last_mark_ms":1758537834741},
+{"id":3327340456,"symbol":"NSDQ100","side":1,"entry":24583.35,"sl":24300,"tp":25500,"lev":10,"cap_usd":200,"sl_buffer_usd":0,"unreal_pnl_usd":-3.5,"liq_limit_usd":10,"liq_cushion_pct":0.6503,"last_mark":24540.36,"last_mark_ms":1758537833934},
+{"id":3327340471,"symbol":"OIL","side":1,"entry":62.79,"sl":59.01,"tp":68.99,"lev":10,"cap_usd":150,"sl_buffer_usd":15.3,"unreal_pnl_usd":-18.39,"liq_limit_usd":22.8,"liq_cushion_pct":0.1932,"last_mark":62.02,"last_mark_ms":1758537836055}
 ]
 }
