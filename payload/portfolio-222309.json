@@ -1,12 +1,12 @@
 {
 "portfolio": {
     "total": 1888.99,
-    "real": 1934.47,
+    "real": 1937.64,
     "invested": 399.97,
     "free": 1489.02
   },
 "trades": [
 {"id":3327789866,"symbol":"OIL","side":1,"entry":62,"sl":63.1,"tp":66.9,"lev":10,"cap_usd":199.97,"sl_buffer_usd":0,"unreal_pnl_usd":45.48,"liq_limit_usd":10,"liq_cushion_pct":1,"last_mark":63.41,"last_mark_ms":1758646904022},
-{"id":3328637769,"symbol":"SILVER","side":1,"entry":44.1,"sl":43.8,"tp":44.9,"lev":10,"cap_usd":200,"sl_buffer_usd":0,"unreal_pnl_usd":0,"liq_limit_usd":0,"liq_cushion_pct":1}
+{"id":3328637769,"symbol":"SILVER","side":1,"entry":44.1,"sl":43.9,"tp":44.9,"lev":10,"cap_usd":200,"sl_buffer_usd":0,"unreal_pnl_usd":3.17,"liq_limit_usd":10,"liq_cushion_pct":1,"last_mark":44.17,"last_mark_ms":1758650505243}
 ]
 }
